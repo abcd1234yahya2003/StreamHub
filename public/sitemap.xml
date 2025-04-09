@@ -9,32 +9,19 @@
         </url>
       
         <url>
-          <loc>https://stream-hub-movies.vercel.app/CategoryMovies</loc>
+          <loc>https://stream-hub-movies.vercel.app/tv</loc>
           <lastmod>2025-04-09T03:10:21.702Z</lastmod>
           <changefreq>daily</changefreq>
           <priority>0.7</priority>
         </url>
       
         <url>
-          <loc>https://stream-hub-movies.vercel.app/Home</loc>
+          <loc>https://stream-hub-movies.vercel.app/</loc>
           <lastmod>2025-04-09T03:10:21.702Z</lastmod>
           <changefreq>daily</changefreq>
           <priority>0.7</priority>
         </url>
-      
-        <url>
-          <loc>https://stream-hub-movies.vercel.app/MediaDetails</loc>
-          <lastmod>2025-04-09T03:10:21.702Z</lastmod>
-          <changefreq>daily</changefreq>
-          <priority>0.7</priority>
-        </url>
-      
-        <url>
-          <loc>https://stream-hub-movies.vercel.app/MovieDetails</loc>
-          <lastmod>2025-04-09T03:10:21.702Z</lastmod>
-          <changefreq>daily</changefreq>
-          <priority>0.7</priority>
-        </url>
+
       
         <url>
           <loc>https://stream-hub-movies.vercel.app/Movies</loc>
@@ -44,14 +31,14 @@
         </url>
       
         <url>
-          <loc>https://stream-hub-movies.vercel.app/Search</loc>
+          <loc>https://stream-hub-movies.vercel.app/search?q=</loc>
           <lastmod>2025-04-09T03:10:21.702Z</lastmod>
           <changefreq>daily</changefreq>
           <priority>0.7</priority>
         </url>
       
         <url>
-          <loc>https://stream-hub-movies.vercel.app/Series</loc>
+          <loc>https://stream-hub-movies.vercel.app/series</loc>
           <lastmod>2025-04-09T03:10:21.702Z</lastmod>
           <changefreq>daily</changefreq>
           <priority>0.7</priority>
